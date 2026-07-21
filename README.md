@@ -1,7 +1,4 @@
 # mitra.ai
-A machine learning-powered web application that assesses mental health risk and explains the factors contributing to each prediction, built with React, Django, and PostgreSQL.
-
-# Mental Health Risk Assessment Web Application
 
 An AI-powered web application that assesses mental health risk and identifies the key factors associated with each prediction. The system combines machine learning with an intuitive web interface to support mental health risk assessment and provide interpretable results.
 
